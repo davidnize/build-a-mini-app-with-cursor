@@ -1,0 +1,14 @@
+{
+  "name": "build-a-mini-app-with-cursor",
+  "version": "1.0.0",
+  "description": "A mini app built with Cursor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cursor-sdk/cursor-sdk": "^1.0.0"
+  }
+}
